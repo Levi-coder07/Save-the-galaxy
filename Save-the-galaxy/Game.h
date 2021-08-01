@@ -6,6 +6,7 @@
 #include"Player.h"
 #include"Bullet.h"
 #include"Enemy.h"
+#include"Player2.h"
 
 class Game
 {
@@ -32,10 +33,15 @@ private:
 
 	//Player
 	Player* player;
+	Player2* playertwo;
 
 	//PlayerGUI
 	sf::RectangleShape playerHpBar;
 	sf::RectangleShape playerHpBarBack;
+	
+	//player two
+	sf::RectangleShape playerHpBar2;
+	sf::RectangleShape playerHpBarBack2;
 
 	//Enemies
 	float spawnTimer;
