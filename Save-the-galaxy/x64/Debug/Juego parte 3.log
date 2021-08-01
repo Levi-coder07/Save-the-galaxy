@@ -1,0 +1,14 @@
+﻿  Game.cpp
+  main.cpp
+C:\Users\lenovo\Desktop\PROGRAMAS DE VS\PARTE 3\Juego parte 3\Juego parte 3\main.cpp(10,55): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\lenovo\Desktop\PROGRAMAS DE VS\PARTE 3\Juego parte 3\Juego parte 3\main.cpp(10,37): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+  Generando código...
+  Juego parte 3.vcxproj -> C:\Users\lenovo\Desktop\PROGRAMAS DE VS\PARTE 3\Juego parte 3\x64\Debug\Juego parte 3.exe
