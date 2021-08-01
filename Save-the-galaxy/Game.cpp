@@ -69,6 +69,7 @@ void Game::initSystems()
 void Game::initPlayer()
 {
 	this->player = new Player();
+	this->player->setPosition(200,450);
 	this->playertwo = new Player2();
 }
 
